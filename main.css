@@ -24,7 +24,7 @@ video {
 
 #header h1 {
     font-size: 60px;
-    font-family: "Lucida Sans Typewriter";
+    font-family: 'Roboto Mono', monospace;
     color: white;
     margin-top: 0;
 }
